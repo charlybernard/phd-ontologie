@@ -4,4 +4,5 @@ Répertoire contenant les fichiers produits pour l'ontology de modélisation des
 Chaque modelet est divisé en trois fichiers : 
 * l'argumentaire dont le nom est `argumentaire_{nom_du_modelet}.md` qui décrit le scénario de motivation du modelet ;
 * le glossaire dont le nom est `glossaire_{nom_du_modelet}.md` qui regroupe l'ensemble des termes utilisés avec leur définition ; 
-* les questions de compétence dont le nom est `questions_{nom_du_modelet}.md` qui donne les questions de compétence du modelet.
+* les questions de compétence dont le nom est `questions_{nom_du_modelet}.md` qui donne les questions de compétence du modelet ;
+* l'ontologie dont le nom est `ontology_{nom_du_modelet}.md` qui l'ontologie associée au modelet.
