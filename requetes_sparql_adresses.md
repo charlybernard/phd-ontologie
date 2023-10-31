@@ -40,6 +40,7 @@ SELECT ?item ?addressLabel ?coords WHERE {
 ## Pour connaître la liste des adresses situées au sein d'une zone géographique donnée
 
 Quelles sont les adresses située dans sur les îles centrales de Paris ?
+Ici, la zone est définie par le WKT suivant `POLYGON ((2.338886 48.858207, 2.345817 48.857007, 2.352061 48.854847, 2.359893 48.851727, 2.360559 48.851458, 2.360601 48.850061, 2.360601 48.849114, 2.356503 48.850216, 2.352576 48.851388, 2.349722 48.852094, 2.348199 48.852743, 2.344787 48.854042, 2.342191 48.855285, 2.33968 48.857134, 2.338328 48.857882, 2.338886 48.858207))` exprimé dans le système de coordonnées WGS84.
 
 ```sparql
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
