@@ -6,14 +6,14 @@
 Quels sont les entités géographiques d'un type défini qui existent à un instant donné ?
 
 ### Résultat attendu 
-La liste des entités géographiques selon le type donné (voie, quartier...) avec leur nom et leur emprise géographique.
+La liste des entités géographiques selon le type donné (voie, quartier...) avec leur nom d'époque.
 
 ### Exemple
 Question : Quelles sont les voies existant à Paris en 1860 ?<br>
 Réponse :<br>
-> addr:LM__00534107-721b-49b6-b126-98b5fe0681a6,"rue de Rochechouart"@fr,"POLYGON(...)"<br>
+> addr:LM__00534107-721b-49b6-b126-98b5fe0681a6,"rue de Rochechouart"@fr<br>
 > ...<br>
-> addr:LM__99c2ec65-89d1-404e-93a1-6b1cbd68ed5a,"place du Trône"@fr,"POLYGON(...)"<br>
+> addr:LM__99c2ec65-89d1-404e-93a1-6b1cbd68ed5a,"place du Trône"@fr<br>
 
 ## Question 2
 
