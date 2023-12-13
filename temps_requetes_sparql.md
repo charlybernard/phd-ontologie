@@ -4,7 +4,7 @@ Requêtes SPARQL décrivant les questions informelles de compétence
 
 ## Pour connaître les entités géographiques d'un type défini qui existent à un instant donné
 
-Quelles sont les voies existant à Paris en 1860 ? Note : `<http://www.wikidata.org/entity/Q1985727>` indique que le calendrier dans lequel est inscrit la date est le calendrier grégorien proleptique.
+Quelles sont les voies existant à Paris en 1860 ? Note : `<http://www.wikidata.org/entity/Q1985727>` indique que le calendrier dans lequel est inscrite la date est le calendrier grégorien proleptique.
 
 ```sparql
 PREFIX addr: <http://rdf.geohistoricaldata.org/address#>
