@@ -1,4 +1,4 @@
-# addresses-ontology
+# Ontologie(s) des adresses
 Répertoire contenant les fichiers produits pour l'ontologie de modélisation des adresses.
 
 Chaque modelet est divisé en trois fichiers : 
