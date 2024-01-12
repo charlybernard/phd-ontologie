@@ -14,4 +14,4 @@ Chaque modelet est divisé en trois fichiers :
 
 Les modelets définis ici sont :
 * `adresses` : représentation des adresses comme étant des énoncés structurés d'un cheminement à l’intérieur d’une hiérarchie spatiale, non ambigu au sein de cette hiérarchie, composé d’une suite ordonnée de repères spatiaux dont la conceptualisation et la désignation sont connues et partagées ;
-* temps : représentation de l'évolution temporelle d'entités spatiales.
+* `temps` : représentation de l'évolution temporelle d'entités spatiales.
